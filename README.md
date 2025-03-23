@@ -3,12 +3,6 @@
 A new Flutter project.
 
 ## Getting Started
-![Screenshot of the application](assets/icons/Screenshot_20250323-190553_Lyra.png)
-![Screenshot of the application](assets/icons/Screenshot_20250323-190601_Lyra.png)
-![Screenshot of the application](assets/icons/Screenshot_20250323-190609_Lyra.png)
-![Screenshot of the application](assets/icons/Screenshot_20250323-190612_Lyra.png)
-![Screenshot of the application](assets/icons/Screenshot_20250323-190618_Lyra.png)
-![Screenshot of the application](assets/icons/Screenshot_20250323-190623_Lyra.png)
 
 This project is a starting point for a Flutter application.
 
